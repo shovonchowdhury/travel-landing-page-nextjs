@@ -1,5 +1,5 @@
 import React from "react";
-import { FaCalendar, FaMap } from "react-icons/fa";
+import { FaMap } from "react-icons/fa";
 import { FaCalendarWeek, FaUserGroup } from "react-icons/fa6";
 
 export default function SearchBox() {
